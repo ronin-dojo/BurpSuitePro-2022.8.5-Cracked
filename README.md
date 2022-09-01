@@ -1,22 +1,21 @@
-# BurpSuit-launcher
-Batch file to launch activated BurpSuit in Windows 10/ 11
+# Activated BurpSuit Pro for Windows 10/ 11
 
-# Burp-Loader
 
-## Prequisites
+Prequisites
+------------
 
-	**Download .exe / .jar file for Burp Suite Pro from**
-		--> https://portswigger.net/burp/releases/
-		--> https://portswigger.net/burp/releases#professional
+**Download .exe / .jar file for Burp Suite Pro from**
+--> https://portswigger.net/burp/releases/
+--> https://portswigger.net/burp/releases#professional
 	
-	**Download Burp Loader files. Then Follow Below Steps for Activation**
-		--> https://github.com/GTekSD/BurpSuit-launcher
-		--> https://github.com/decrypt3r/Burp-Loader/
+**Download Burp Loader files. Then Follow Below Steps for Activation**
+--> https://github.com/GTekSD/BurpSuit-launcher
+--> https://github.com/decrypt3r/Burp-Loader/
 	
-	**If using in Windows 10, Download and Install Java and JDK**
-		**For Java** --> https://www.java.com/en/download/
-		**For JDK**  --> https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html 
-			     --> https://www.oracle.com/java/technologies/downloads/#jdk18-windows
+**If using in Windows 10, Download and Install Java and JDK**
+**For Java** --> https://www.java.com/en/download/
+**For JDK**  --> https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html 
+	     --> https://www.oracle.com/java/technologies/downloads/#jdk18-windows
 
 
 
@@ -51,3 +50,8 @@ Batch file to launch activated BurpSuit in Windows 10/ 11
 		Edit burpsuit launcher cmmd as per your file path as shown in 4.2
 	
 	**6.1 For Executing Burp in Windows, Double Click on burp.VBS file.**
+
+
+Iinstallation Guide
+---------------
+- [How to Activate and Install BurpSuit Pro in Windows 10/ 11](https://www.youtube.com/gteksd) by GTekSD
