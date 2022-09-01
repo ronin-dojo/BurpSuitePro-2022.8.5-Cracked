@@ -12,7 +12,7 @@ Download Burp Loader files. Then Follow Below Steps for Activation:
 - [https://github.com/GTekSD/BurpSuit-launcher](https://github.com/GTekSD/BurpSuit-launcher)
 - [https://github.com/decrypt3r/Burp-Loader/](https://github.com/decrypt3r/Burp-Loader/)
 	
-If using in Windows 10, Download and Install Java and JDK:
+If using in Windows 10, 11 Download and Install Java and JDK:
 - For Java** --> [https://www.java.com/en/download/](https://www.java.com/en/download/)
 - For JDK**  --> [https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html) 
 	     --> [https://www.oracle.com/java/technologies/downloads/#jdk18-windows](https://www.oracle.com/java/technologies/downloads/#jdk18-windows)
@@ -22,7 +22,7 @@ If using in Windows 10, Download and Install Java and JDK:
 Execution and Activation
 ------------
 	
-FOR burpsuite_pro_windows-x64.exe
+**FOR burpsuite_pro_windows-x64.exe
 	
 **1. Install normally in the dir C:\Users\\AppData\Local\Programs\BurpSuitePro
 	
