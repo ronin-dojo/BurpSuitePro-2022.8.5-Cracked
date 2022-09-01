@@ -30,8 +30,7 @@ Execution and Activation
 - Install BurpSuit.exe normally C:\Users\\AppData\Local\Programs\BurpSuitePro
 	
 **2. Place all files in the installation folder**
--- For Example default location
--- C:\Users\\AppData\Local\Programs\BurpSuitePro
+- For Ex. Default location: C:\Users\\AppData\Local\Programs\BurpSuitePro
 	
 **3. Open Command Prompt in the installation folder**
 - Type cmd in the folder's path and hit ENTER
