@@ -24,7 +24,7 @@ Execution and Activation
 	
 ***FOR burpsuite_pro_windows-x64.exe***
 	
-**1. Install normally in the dir C:\Users\\AppData\Local\Programs\BurpSuitePro
+**1. Install normally in the dir C:\Users\\AppData\Local\Programs\BurpSuitePro**
 	
 **2. Place all files in the installation folder**
 -- For Example default location --> C:\Users\\AppData\Local\Programs\BurpSuitePro
