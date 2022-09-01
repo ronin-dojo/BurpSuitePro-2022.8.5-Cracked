@@ -24,7 +24,10 @@ Execution and Activation
 	
 ***FOR burpsuite_pro_windows-x64.exe***
 	
-**1. Install normally in the dir C:\Users\\AppData\Local\Programs\BurpSuitePro**
+**1. Installation**
+- Install Java : (Ex. jre-8u341-windows-x64.exe)
+- Install JDK : (Ex. jdk-17.0.4.1_windows-x64_bin.exe)
+- Install BurpSuit.exe normally C:\Users\\AppData\Local\Programs\BurpSuitePro
 	
 **2. Place all files in the installation folder**
 -- For Example default location
