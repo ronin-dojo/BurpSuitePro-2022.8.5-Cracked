@@ -29,7 +29,7 @@ Execution and Activation
 - Install JDK : (Ex. jdk-17.0.4.1_windows-x64_bin.exe)
 - Install BurpSuit.exe normally C:\Users\\AppData\Local\Programs\BurpSuitePro
 	
-**2. Place all files in the installation folder**
+**2. Place all files in the installation folder (keygen.jar,loader.jar)**
 - For Ex. Default location: C:\Users\\AppData\Local\Programs\BurpSuitePro
 	
 **3. Open Command Prompt in the installation folder**
@@ -46,6 +46,7 @@ java -jar keygen.jar
 ```
 java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\\AppData\Local\Programs\BurpSuitePro\loader.jar" -noverify -jar "C:\Users\\AppData\Local\Programs\BurpSuitePro\burpsuite_pro.jar"
 ```
+- *COMMAND NOT WORKING? Bcz you forget to correct path in command. write user name in betn Users\\AppData.*
 
 **5. Activate Burp Suite Pro**
 - 1. Modify License String like "license to GTekSD"
