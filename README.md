@@ -46,7 +46,7 @@ java -jar keygen.jar
 ```
 java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\\AppData\Local\Programs\BurpSuitePro\loader.jar" -noverify -jar "C:\Users\\AppData\Local\Programs\BurpSuitePro\burpsuite_pro.jar"
 ```
-- *COMMAND NOT WORKING? Bcz you forget to correct path in command. write user name in betn Users\\AppData.*
+- *COMMAND NOT WORKING? Bcz you forget to correct path in command. Example: 'Users\xyz\AppData'*
 
 **5. Activate Burp Suite Pro**
 - 1. Modify License String like "license to GTekSD"
