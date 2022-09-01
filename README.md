@@ -40,7 +40,7 @@ Execution and Activation
 java -jar keygen.jar
 ```
 	
-**4.2. use BurpSuit**
+**4.2. Use BurpSuit**
 ```
 java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\\AppData\Local\Programs\BurpSuitePro\loader.jar" -noverify -jar "C:\Users\\AppData\Local\Programs\BurpSuitePro\burpsuite_pro.jar"
 ```
@@ -53,9 +53,9 @@ java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\\AppData
 - 5. Copy license response from keygen.jar and paste in BurpSuite_Pro, and next and Done
 	
 **6. Open BurpSuit-Launcher.bat with Notepad.**
--- Edit burpsuit launcher cmmd as per your file path as shown in 4.2
+- Edit burpsuit launcher cmmd as per your file path as shown in 4.2
 	
-**6.1 For Executing Burp in Windows, Double Click on BurpSuit-Launcher.bat file.**
+**6.1 For Launching Burp in Windows, Double Click on BurpSuit-Launcher.bat file.**
 
 
 Iinstallation Guide
