@@ -1,4 +1,5 @@
-# Activated BurpSuit Pro for Windows 10/ 11
+# Activated BurpSuit Professional 2022.8.5 for Windows 10/ 11
+- This activator works only till version 2022.8.5
 
 
 Prequisites
@@ -7,7 +8,7 @@ Prequisites
 Download .exe / .jar file for Burp Suite Pro from:
 - [https://portswigger.net/burp/releases/](https://portswigger.net/burp/releases/)
 
-https://portswigger.net/burp/releases/professional-community-2022-7-1
+- [Professional / Community 2022.8.5](https://portswigger.net/burp/releases/professional-community-2022-8-5)
 	
 Download Burp Loader files. Then Follow Below Steps for Activation:
 - [https://github.com/GTekSD/BurpSuit-launcher](https://github.com/GTekSD/BurpSuit-launcher)
@@ -45,7 +46,7 @@ java -jar keygen.jar
 	
 **4.2. Use BurpSuit**
 ```
-java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\\AppData\Local\Programs\BurpSuitePro\loader.jar" -noverify -jar "C:\Users\\AppData\Local\Programs\BurpSuitePro\burpsuite_pro.jar"
+java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\xyz\AppData\Local\Programs\BurpSuitePro\loader.jar" -noverify -jar "C:\Users\xyz\AppData\Local\Programs\BurpSuitePro\burpsuite_pro.jar"
 ```
 - *COMMAND NOT WORKING? Bcz you forget to correct path in command. Example: 'Users\xyz\AppData'*
 
@@ -62,6 +63,7 @@ java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\\AppData
 **6.1 For Launching Burp in Windows, Double Click on BurpSuit-Launcher.bat file.**
 
 
-Iinstallation Guide
+Installation Guide
 ---------------
+NOT AVAILABLE
 - [How to Activate and Install BurpSuit Pro in Windows 10/ 11](https://www.youtube.com/gteksd) by GTekSD
