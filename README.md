@@ -6,7 +6,8 @@ Prequisites
 
 Download .exe / .jar file for Burp Suite Pro from:
 - [https://portswigger.net/burp/releases/](https://portswigger.net/burp/releases/)
-- [https://portswigger.net/burp/releases#professional](https://portswigger.net/burp/releases#professional)
+
+https://portswigger.net/burp/releases/professional-community-2022-7-1
 	
 Download Burp Loader files. Then Follow Below Steps for Activation:
 - [https://github.com/GTekSD/BurpSuit-launcher](https://github.com/GTekSD/BurpSuit-launcher)
